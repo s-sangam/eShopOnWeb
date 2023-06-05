@@ -1,0 +1,25 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "Sample Threat Model",
+    "owner": "Sangam",
+    "description": "threat model for MSFT eshopweb app",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.3"
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "Sangam",
+    "threatTop": 0
+  }
+}
